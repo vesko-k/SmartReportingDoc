@@ -1,0 +1,2 @@
+# SmartReportingDoc
+Smart Reporting Documentation

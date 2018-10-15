@@ -1,0 +1,20 @@
+theme: 
+    name: readthedocs
+site_name: Smart Reporting Documentation
+pages:
+    - Getting Started:
+        - Introduction: index.md
+        - Installation: install-smart-reporting.md
+        - Configuration: configuration.md
+        - Logging: logging.md
+        - Report Templates: 
+          - Overview: report-templates-overview.md
+          - Fields: report-templates-fields.md
+          - Operators: report-templates-operators.md
+          - Other Special Phrases: report-templates-other-special-phrases.md
+        - Appednices: appendices.md
+markdown_extensions:
+    - admonition
+    - toc
+    - attr_list 
+
